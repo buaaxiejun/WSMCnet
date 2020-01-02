@@ -1,9 +1,9 @@
 ﻿# Pytorch Implementation of the Wide Stride Multi-Classification Stereo Matching Network
  
-```citation
+ 
+citation
 Wang Yufeng,Wang Hongwei,Yu Guang,Yang Mingquan,Yuan Yuwei,Quan Jicheng. Stereo Matching Algorithm Based on Three-Dimensional Convolutional Neural Network[J]. Acta Optica Sinica, 2019, 39(11): 1115001
 王玉锋,王宏伟,于光,杨明权,袁昱纬,全吉成. 基于三维卷积神经网络的立体匹配算法[J]. 光学学报, 2019, 39(11): 1115001
-```
 
 
 ## Contents
