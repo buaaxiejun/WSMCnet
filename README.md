@@ -1,4 +1,9 @@
 ﻿# Pytorch Implementation of the Wide Stride Multi-Classification Stereo Matching Network
+ 
+## citation
+Wang Yufeng,Wang Hongwei,Yu Guang,Yang Mingquan,Yuan Yuwei,Quan Jicheng. Stereo Matching Algorithm Based on Three-Dimensional Convolutional Neural Network[J]. Acta Optica Sinica, 2019, 39(11): 1115001
+王玉锋,王宏伟,于光,杨明权,袁昱纬,全吉成. 基于三维卷积神经网络的立体匹配算法[J]. 光学学报, 2019, 39(11): 1115001
+
 
 ## Contents
 
@@ -85,14 +90,8 @@ python main.py --mode Submission --arch WSMCnetEB_S2C3F32 --maxdisp 192 --bn 1 \
 You can also see the example in [demos/kitti_submission.sh](demos/kitti_submission.sh) for details.
 
 ### Pretrained Model
-
-| Model | SceneFlow | KITTI |
-|---|---|---|
-| WSMCnet-S1C1 | [Baidu-pan](https://pan.baidu.com/s/1gURqG2A2s_hHvPswZ-Y4VQ ) | [Baidu-pan](https://pan.baidu.com/s/1gURqG2A2s_hHvPswZ-Y4VQ ) | 
-| WSMCnetEB-S2C3 | [Baidu-pan](https://pan.baidu.com/s/1gURqG2A2s_hHvPswZ-Y4VQ ) | [Baidu-pan](https://pan.baidu.com/s/1gURqG2A2s_hHvPswZ-Y4VQ ) | 
-| WSMCnetEB-S3C3 | [Baidu-pan](https://pan.baidu.com/s/1gURqG2A2s_hHvPswZ-Y4VQ ) | [Baidu-pan](https://pan.baidu.com/s/1gURqG2A2s_hHvPswZ-Y4VQ ) | 
-
-Extraction code：bwye 
+[Baidu-pan](https://pan.baidu.com/s/1HtfUADZe8R4s2sV2cQW2qA )
+Extraction code：jz05
 
 ## Results on [KITTI 2015 leaderboard](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo)
 
