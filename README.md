@@ -7,6 +7,7 @@ Wang Yufeng,Wang Hongwei,Yu Guang,Yang Mingquan,Yuan Yuwei,Quan Jicheng. Stereo 
 
 王玉锋,王宏伟,于光,杨明权,袁昱纬,全吉成. 基于三维卷积神经网络的立体匹配算法[J]. 光学学报, 2019, 39(11): 1115001
 
+url=http://www.opticsjournal.net/Articles/Abstract?aid=OJc47fda4ba4b4ce65
 }
 
 
